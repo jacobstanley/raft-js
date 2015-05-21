@@ -21,4 +21,6 @@ executable raft-js
       base >= 4.8 && < 4.9
     , bytestring
     , ghcjs-websockets >= 0.3
+    , ghcjs-dom >= 0.1
     , text >= 1.2
+    , mtl >= 2.1
